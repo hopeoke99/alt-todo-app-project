@@ -161,12 +161,6 @@ npm run dev
    - Automatic token refresh on 401 responses
    - Logout clears tokens and redirects
 
-## Screenshots
-
-### Login Page
-![Login Page](screenshots/login.png)
-*Clean login form with validation*
-
 ### Todo Dashboard
 ![Todo Dashboard](screenshots/dashboard.png)
 *Main todo list with filters and pagination*
@@ -235,17 +229,6 @@ const status = searchParams.get('status') || '';
 - [ ] Add file attachments to tasks
 
 
-## Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-MIT License - feel free to use this project for learning or as a template.
 
 ## Acknowledgments
 
